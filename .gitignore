@@ -1,0 +1,37 @@
+.DS_Store
+*~
+*.obj
+*.exe
+
+# Following files come from {QQ Root}
+/Misc/Camera/Camera.tpc
+/Misc/Camera/gf-config.xml
+/Misc/Camera/Res.rdb
+/Misc/Camera/Xtml.rdb
+/Misc/Camera/I18N/config.xml
+/Misc/Camera/I18N/StringState.xml
+/Misc/Camera/I18N/2052/String.Camera.xml
+/Misc/Camera/I18N/2052/GFStringBundle.xml
+
+# Following files come from {QQ Root}/Bin
+/libpng.dll
+/libtcmalloc.dll
+/lua.dll
+/RenderService.dll
+/sqlite.dll
+/tinyxml.dll
+/xGraphic32.dll
+/xImage.dll
+/zlib.dll
+/arkFS.dll
+/arkGraphic.dll
+/arkImage.dll
+/arkIOStub.dll
+/arkIPC.dll
+/AsyncTask.dll
+/Camera.dll
+/Common.dll
+/GF.dll
+/libexpatw.dll
+/libimagequant.dll
+/libjpegturbo.dll
